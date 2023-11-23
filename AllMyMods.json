@@ -1,0 +1,28 @@
+{
+    "List":
+    [
+        "ModernParty",
+        "ModernPersonalStorage",
+        "ModernSpawner",
+        "GhostTrain",
+        "KGB_Barterbox",
+        "KGB_CustomFixes",
+        "KGB_CustomSkinnig",
+        "KGB_DeadSkinning",
+        "KGB_VanilaHeli",
+        "ModernArtSystem",
+        "ModernInsurance",
+        "ModernKillFeed",
+        "ModernLogger",
+        "ModernMenuLoader",
+        "KGB_LIB",
+        "DiscordAPI",
+        "ModernCOT",
+        "ModernNameChecker",
+        "ModernIdentificator",
+        "KGB_GarageFix",
+        "MPS_Tool",
+        "SHABLON_MOD",
+        "ModernDialogSystem"
+    ]
+}
