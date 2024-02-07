@@ -1,6 +1,7 @@
 {
     "m_Locations_API":
     [
+        "http://127.0.0.1/",
         "https://api.kgb.best/",
         "https://kgb-api.online/"
     ],
