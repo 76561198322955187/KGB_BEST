@@ -6,7 +6,7 @@
     "m_Status_Error": "906C5D2485CAE722073A430F4D04FE1767507592CEF226629AEADB85A2EC909D",
     "m_Locations_API":
     [
-        "http://127.0.0.1/",
+        "http://dayz:801",
         "https://api.kgb.best/",
         "https://kgb-api.online/"
     ],
