@@ -1,4 +1,9 @@
 {
+    "m_MaxTries": 5,
+    "m_Status_FREE": "FREE",
+    "m_Status_LOG": "LOG",
+    "m_Status_PRIVATE": "PRIVATE",
+    "m_Status_Error": "906C5D2485CAE722073A430F4D04FE1767507592CEF226629AEADB85A2EC909D",
     "m_Locations_API":
     [
         "http://127.0.0.1/",
@@ -12,9 +17,5 @@
         "https://api.ipify.org",
         "https://ipv4-internet.yandex.net/api/v0/ip",
         "https://chekfast.zennolab.com/proxy.php"
-    ],
-    "m_Status_FREE": "FREE",
-    "m_Status_LOG": "LOG",
-    "m_Status_PRIVATE": "PRIVATE",
-    "m_Status_Error": "906C5D2485CAE722073A430F4D04FE1767507592CEF226629AEADB85A2EC909D"
+    ]
 }
