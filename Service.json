@@ -17,5 +17,13 @@
         "https://api.ipify.org",
         "https://ipv4-internet.yandex.net/api/v0/ip",
         "https://chekfast.zennolab.com/proxy.php"
-    ]
+    ],
+    "m_API_MAP":
+    {
+        "API_CHECK": "VERIFY_PRODUCTS_v2",
+        "API_IP": "GetIP",
+        "API_SteamID": "SteamID",
+        "API_ServerName": "Recognize",
+        "API_Ping": "Ping"
+    }
 }
