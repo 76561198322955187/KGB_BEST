@@ -24,6 +24,7 @@
         "API_IP": "GetIP",
         "API_SteamID": "SteamID",
         "API_ServerName": "Recognize",
-        "API_Ping": "Ping"
+        "API_Ping": "Ping",
+        "SHA256": "SHA256"
     }
 }
