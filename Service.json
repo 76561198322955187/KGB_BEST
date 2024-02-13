@@ -1,6 +1,7 @@
 {
     "m_MaxTries": 5,
     "m_ActualLib": "v.7.4",
+    "m_API_RequeredMinVer": "v.7.4",
     "m_Status_FREE": "FREE",
     "m_Status_LOG": "LOG",
     "m_Status_PRIVATE": "PRIVATE",
@@ -25,5 +26,5 @@
         "API_ServerName": "Recognize",
         "API_Ping": "Ping",
         "SHA256": "SHA256"
-    }
+    }    
 }
