@@ -26,6 +26,7 @@
         "API_SteamID": "SteamID",
         "API_ServerName": "Recognize",
         "API_Ping": "Ping",
-        "SHA256": "SHA256"
+        "SHA256": "SHA256",
+        "AlertBL": "AlertBL"
     }    
 }
