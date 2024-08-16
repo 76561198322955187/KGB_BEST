@@ -29,6 +29,7 @@
         "API_Ping": "Ping",
         "SHA256": "SHA256",
         "AlertBL": "AlertBL",
-        "CF_ID": "CF_ID"
+        "CF_ID": "CF_ID",
+        "Get_CSB": "Get_CSB_List"
     }    
 }
