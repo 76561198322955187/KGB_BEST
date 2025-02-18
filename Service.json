@@ -1,5 +1,5 @@
 {
-    "m_MaxTries": 30,
+    "m_MaxTries": 50,
     "m_ActualLib": "v.8.1",
     "m_API_RequeredMinVer": "v.7.4",
     "m_Status_FREE": "FREE",
@@ -29,6 +29,7 @@
         "SHA256": "SHA256",
         "AlertBL": "AlertBL",
         "CF_ID": "CF_ID",
-        "Get_CSB": "Get_CSB_List"
+        "Get_CSB": "Get_CSB_List",
+        "Get_CSB_New": "Get_CSB_List_New"
     }    
 }
