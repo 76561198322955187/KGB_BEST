@@ -1,6 +1,6 @@
 {
     "m_MaxTries": 50,
-    "m_ActualLib": "v.8.1",
+    "m_ActualLib": "v.8.2",
     "m_API_RequeredMinVer": "v.7.4",
     "m_Status_FREE": "FREE",
     "m_Status_LOG": "LOG",
@@ -9,6 +9,7 @@
     "m_Locations_API":
     [
         "https://api.kgb.best/",
+        "https://api.kgb.rest/",
         "https://s1.libdata.ru/",
         "https://kgb-api.online/"
     ],
